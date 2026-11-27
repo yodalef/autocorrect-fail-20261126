@@ -1,4 +1,4 @@
-LINE = "I texted my boss 'I love you' instead of 'I'll see you.' HR called it 'a bold career move.' I call it unemployment."
+LINE = "Sent my boss 'running late, stuck in traffic' and it went out as 'stuck in tragic.' He replied: 'Same. See you at nine.'"
 
 
 def validated_line() -> str:
